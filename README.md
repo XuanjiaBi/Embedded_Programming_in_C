@@ -1,6 +1,6 @@
 # Embedded-Programming-in-C
 
-All designs are conducted during ECE3430 in the University of Virginia
+All designs are conducted during ECE3430 in the University of Virginia <br/>
 Topic including:
 1. Finite State Machines
 2. Interrupt Service Routines
